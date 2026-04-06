@@ -3,6 +3,15 @@
 A role-based single-page application built with **React 19**, **Vite**, and **Ant Design** that provides separate dashboards for Admins, Employees, and Customers of the Trusted Bank Management System.
 
 ---
+<img width="1904" height="827" alt="Screenshot 2026-04-06 195025" src="https://github.com/user-attachments/assets/8d41056e-0971-469d-9bb8-ba990cac3513" />
+
+<img width="1888" height="882" alt="Screenshot 2026-04-06 195040" src="https://github.com/user-attachments/assets/785f8678-b6a6-4ef0-81b0-306825bea561" />
+
+<img width="1894" height="868" alt="Screenshot 2026-04-06 195144" src="https://github.com/user-attachments/assets/02387647-bf00-4041-b006-886a8d974250" />
+
+<img width="1890" height="878" alt="Screenshot 2026-04-06 194857" src="https://github.com/user-attachments/assets/638c0e6b-5fe5-41b2-9de6-aaf6c430e0eb" />
+
+<img width="1888" height="853" alt="Screenshot 2026-04-06 194946" src="https://github.com/user-attachments/assets/e1a0d482-54a0-4da6-8830-97a5141653ec" />
 
 ## Table of Contents
 
