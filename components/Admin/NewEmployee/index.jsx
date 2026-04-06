@@ -182,7 +182,7 @@ const NewEmployee = () => {
     const onSearch = (e) => {
         let value = e.target.value.trim().toLowerCase();
         let filter = finalEmployee && finalEmployee.filter(emp => {
-            if (emp.fullname.toLowerCase().indexOf(value) != -1) {
+            if (emp.fullName.toLowerCase().indexOf(value) != -1) {
                 return emp;
             }
             else if (emp.userType.toLowerCase().indexOf(value) != -1) {
@@ -242,8 +242,8 @@ const NewEmployee = () => {
     },
     {
         title: 'FullName',
-        dataIndex: 'fullname',
-        key: 'fullname'
+        dataIndex: 'fullName',
+        key: 'fullName'
     },
     {
         title: 'Email',
@@ -312,7 +312,7 @@ const NewEmployee = () => {
                             </div>
                         </Item>
                         <div className='grid grid-cols-2 gap-2'>
-                            <Item label='FullName' name='fullname' rules={[
+                            <Item label='FullName' name='fullName' rules={[
                                 { required: true, message: 'Full name is required' },
                                 { min: 3, message: 'Name must be at least 3 characters' }
                             ]}>
