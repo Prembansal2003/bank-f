@@ -160,7 +160,7 @@ const Branding = () => {
                         <div className={`${brandings ? "hidden" : "md:col-span-3 grid md:grid-cols-3 gap-x-3"}`}>
                         <Item
                             label="Admin Fullname"
-                            name="fullname"
+                            name="fullName"
                             rules={[{ required: brandings ? false : true }]}
                         >
                             <Input />
